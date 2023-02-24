@@ -6,7 +6,7 @@ title                    : "grandbandwidth"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Omar Badran"
-description              : "An amazing website."
+description              : "Some Weird Shit."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -92,8 +92,8 @@ analytics:
 author:
   name             : "Omar Badran"
   avatar           : "/assets/32434709.jfif"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Guess you could say I got caught with my cyber pants down."
+  location         : "Egypt"
   email            :
   links:
     - label: "Email"
