@@ -1,1 +1,1 @@
-document.location = 'https://discord.gg/TgG54rVGBR';
+document.location = 'https://www.pornhub.com/';
