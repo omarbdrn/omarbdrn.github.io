@@ -1,1 +1,1 @@
-document.location = 'https://discord.gg/hkKuNEJjvx';
+document.location = 'https://discord.gg/TgG54rVGBR';
