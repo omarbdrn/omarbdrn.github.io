@@ -2,11 +2,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "grandbandwidth"
+title                    : "GrandBandwidth - Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Omar Badran"
-description              : "Some Weird Shit."
+name                     : "GrandBandwidth Personal Blog"
+description              : "A Personal blog writing stuff for fun."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -93,7 +93,7 @@ author:
   name             : "Omar Badran"
   avatar           : "/assets/32434709.jfif"
   bio              : "Guess you could say I got caught with my cyber pants down."
-  location         : "Egypt"
+  location         : "No where"
   email            :
   links:
     - label: "Email"
