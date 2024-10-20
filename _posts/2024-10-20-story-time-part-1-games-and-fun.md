@@ -7,8 +7,9 @@ categories:
 
 ---
 
-<div style="background-color: #f8d7da; padding: 15px; border-radius: 5px; color: #721c24; border: 1px solid #f5c6cb;">
-**Disclaimer:** The following story is a work of fiction. Any resemblance to real persons, living or dead, or actual events is purely coincidental. The content is intended for entertainment purposes only. I do not endorse or condone any illegal activities that may be depicted within these stories, nor can I confirm or deny the existence of certain elements described. Reader discretion is advised.
+<div style="background-color: #f8d7da; padding: 15px; border-radius: 5px; color: #721c24; border: 1px solid #f5c6cb;font-size:14px;margin-bottom:15px;">
+  <b>Disclaimer:</b><br>
+  The following story is a work of fiction. Any resemblance to real persons, living or dead, or actual events is purely coincidental. The content is intended for entertainment purposes only. I do not endorse or condone any illegal activities that may be depicted within these stories, nor can I confirm or deny the existence of certain elements described. Reader discretion is advised.
 </div>
 
 Below is a random story just to try out the layouts that Jekyll provides for markdown components
@@ -41,4 +42,6 @@ It all started on a rainy day, three weeks ago. They had gathered in a small caf
 
 But Maya, always the optimist, leaned forward with a smirk. "That's what makes it exciting."
 
-<div style="background-color: #d1ecf1; padding: 15px; border-radius: 5px; color: #0c5460; border: 1px solid #bee5eb;"> **Author's Note:** Thank you for reading Part 1 of "The Midnight Heist." Stay tuned for Part 2, where things get even more intense! Drop your thoughts and theories in the comments below. </div>
+<div style="background-color: #d1ecf1; padding: 15px; border-radius: 5px; color: #0c5460; border: 1px solid #bee5eb;font-size:14px;margin-top:15px;">
+  <b>Author's Note:</b><br>
+  Thank you for reading Part 1 of "The Midnight Heist." Stay tuned for Part 2, where things get even more intense! Drop your thoughts and theories in the comments below. </div>
