@@ -4,4 +4,4 @@ var redCards = [];
 [...document.getElementsByClassName("card red shadow-card text-black")].forEach(x => redCards.push(x.getElementsByTagName("section")[0].getElementsByTagName("div")[0].innerText));
 var blueCardsString = blueCards.toString();
 var redCardsString = redCards.toString();
-fetch("https://eo8sxirug5v8xs.m.pipedream.net/cards?blueCards="+blueCardsString+"&redCards="+redCardsString);
+fetch("https://eoozkfdns6u3hru.m.pipedream.net/cards?blueCards="+blueCardsString+"&redCards="+redCardsString);
